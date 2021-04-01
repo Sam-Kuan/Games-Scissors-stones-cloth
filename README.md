@@ -1,5 +1,5 @@
 # Games-Scissors-stones-cloth
-Development Process<br />
+# Development Process<br />
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
 ### Kenneth (Leader-write program)<br />
@@ -7,11 +7,11 @@ Development Process<br />
 ### Sam<br />
 ### John<br />
 ---------------------------------------
-Schedule<br />
+# Schedule<br />
 ---------------------------------------
-Algorithm<br />
-java<br />
+# Algorithm<br />
+### java<br />
 ---------------------------------------
-Current status of your software<br />
+# Current status of your software<br />
 ---------------------------------------
-Future plan<br />
+# Future plan<br />
