@@ -8,10 +8,10 @@
 # Games-Scissors-stones-cloth<br />
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
-* Kenneth (Leader-write program)<br />
+* Kenneth     (Leader-portion for write program)<br />
 * Aaron<br />
-* Sam (Portion for README file)<br />
-* John(Portion for README file)<br />
+* Sam         (Portion for README file)<br />
+* John        (Portion for README file)<br />
 ---------------------------------------
 # Schedule<br />
 ---------------------------------------
