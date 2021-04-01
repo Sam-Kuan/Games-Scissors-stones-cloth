@@ -2,10 +2,10 @@
 # Development Process<br />
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
-### Kenneth (Leader-write program)<br />
-### Aaron<br />
-### Sam<br />
-### John<br />
+* Kenneth (Leader-write program)<br />
+* Aaron<br />
+* Sam<br />
+* John<br />
 ---------------------------------------
 # Schedule<br />
 ---------------------------------------
