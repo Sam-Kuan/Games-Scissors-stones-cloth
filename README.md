@@ -10,7 +10,7 @@
 # Schedule<br />
 ---------------------------------------
 # Algorithm<br />
-### java<br />
+### Java Language<br />
 ---------------------------------------
 # Current status of your software<br />
 ---------------------------------------
