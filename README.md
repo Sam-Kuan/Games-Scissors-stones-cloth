@@ -10,8 +10,8 @@
 # Members (Roles & Responsibilities & Portion)<br />
 * Kenneth (Leader-write program)<br />
 * Aaron<br />
-* Sam<br />
-* John<br />
+* Sam (Portion for README file)<br />
+* John(Portion for README file)<br />
 ---------------------------------------
 # Schedule<br />
 ---------------------------------------
