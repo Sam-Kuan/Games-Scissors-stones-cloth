@@ -12,12 +12,12 @@
 #### Our market goal is to focus on the main force to attract palyer's attention,pass a certain amount of time, and the method of downloading or playing games is very simple.<br />
 ---------------------------------------
 # Development Process<br />
-* Step 1: Analyze the most popular game type (casual game) during the epidemic.
-* Step 2: Refer to different websites to get the little game of rock-scissors-cloth.
-* Step 3: write code with reference to different web pages.
-* Step 4: Run the code and debug.
-* Step 5: Launch to the market.
-* Step 6: Regular maintenance and launch of new functions.
+#### Step 1: Analyze the most popular game type (casual game) during the epidemic.<br />
+#### Step 2: Refer to different websites to get the little game of rock-scissors-cloth.<br />
+#### Step 3: write code with reference to different web pages.<br />
+#### Step 4: Run the code and debug.<br />
+#### Step 5: Launch to the market.<br />
+#### Step 6: Regular maintenance and launch of new functions.<br />
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
 * Kenneth     (Leader-portion for write program)<br />
