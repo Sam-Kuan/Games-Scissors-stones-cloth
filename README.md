@@ -9,6 +9,7 @@
 * Deliver usable software frequently,the frequency can range from weeks to months,preferably at intervals per second.<br />
 ---------------------------------------
 # Possible usage of your software (i.e., target market)<br />
+#### Our market goal is to focus on the main force to attract palyer's attention,pass a certain amount of time, and the method of downloading or playing games is very simple.<br />
 # Development Process<br />
 # Games-Scissors-stones-cloth<br />
 ---------------------------------------
