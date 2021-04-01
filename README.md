@@ -1,6 +1,7 @@
 # Single pictures that shows your project<br />
-# Purpose of the software includes:<br />
+---------------------------------------
 # Which type of software development process is applied.<br />
+---------------------------------------
 # Why you choses this type (Waterfall vs. Agile)?<br />
 ### We chose Agile process<br />
 * We sincerely welcome changes in requirments,even in the later stages of development.<br />
