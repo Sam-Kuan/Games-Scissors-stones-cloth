@@ -3,6 +3,11 @@
 # Purpose of the software includes:<br />
 # Which type of software development process is applied.<br />
 # Why you choses this type (Waterfall vs. Agile)?<br />
+### We chose Agile process<br />
+* We sincerely welcome changes in requirments,even in the later stages of development.<br />
+* Agile processes control changes to maintain the customer's competitive advantage.<br />
+* Deliver usable software frequently,the frequency can range from weeks to months,preferably at intervals per second.<br />
+---------------------------------------
 # Possible usage of your software (i.e., target market)<br />
 # Development Process<br />
 # Games-Scissors-stones-cloth<br />
