@@ -10,6 +10,7 @@
 ---------------------------------------
 # Possible usage of your software (i.e., target market)<br />
 #### Our market goal is to focus on the main force to attract palyer's attention,pass a certain amount of time, and the method of downloading or playing games is very simple.<br />
+---------------------------------------
 # Development Process<br />
 # Games-Scissors-stones-cloth<br />
 ---------------------------------------
@@ -25,6 +26,8 @@
 #### Java Language<br />
 ---------------------------------------
 # Current status of your software<br />
+#### The current situation of our game is still realatively inadequate.<br />
+#### It does not have a more beautiful appearance, but there are also many interesting places that can be used as leisure game.<br />
 ---------------------------------------
 # Future plan<br />
 #### We will add a game UI system in the future, and will improve the launch of better picture quality,sound effects,interface<br />
