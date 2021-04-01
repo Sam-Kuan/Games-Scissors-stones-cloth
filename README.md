@@ -5,6 +5,7 @@ Kenneth (Leader-write program)<br />
 Aaron<br />
 Sam<br />
 John<br />
+---------------------------------------
 Schedule<br />
 Algorithm<br />
 java<br />
