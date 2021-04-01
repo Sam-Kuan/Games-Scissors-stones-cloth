@@ -1,7 +1,7 @@
 # Games-Scissors-stones-cloth
 Development Process<br />
 ---------------------------------------
-###Members (Roles & Responsibilities & Portion)<br />
+### Members (Roles & Responsibilities & Portion)<br />
 Kenneth (Leader-write program)<br />
 Aaron<br />
 Sam<br />
