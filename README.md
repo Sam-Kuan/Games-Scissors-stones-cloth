@@ -21,4 +21,4 @@
 # Current status of your software<br />
 ---------------------------------------
 # Future plan<br />
-### We will add a game UI system in the future, and will improve the launch of better picture quality,sound effects,interface<br/ >
+### We will add a game UI system in the future, and will improve the launch of better picture quality,sound effects,interface<br />
