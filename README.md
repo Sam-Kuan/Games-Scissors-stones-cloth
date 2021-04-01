@@ -1,4 +1,3 @@
-# Graphical Abstract<br />
 # Single pictures that shows your project<br />
 # Purpose of the software includes:<br />
 # Which type of software development process is applied.<br />
@@ -21,6 +20,9 @@
 * John        (Portion for README file)<br />
 ---------------------------------------
 # Schedule<br />
+* Game idea:2 days<br />
+* Code writing:2 days<br />
+* README file:2 days<br />
 ---------------------------------------
 # Algorithm<br />
 #### Java Language<br />
