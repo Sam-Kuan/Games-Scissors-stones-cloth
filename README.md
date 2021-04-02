@@ -21,7 +21,7 @@
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
 * Kenneth     (Leader-portion for write program)<br />
-* Aaron<br /> (Portion for Design)<br />
+* Aaron  (Portion for Design)<br />
 * Sam         (Portion for README file)<br />
 * John        (Portion for README file)<br />
 ---------------------------------------
