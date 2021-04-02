@@ -1,4 +1,5 @@
 # Single pictures that shows your project<br />
+![image] (https://github.com/Sam-Kuan/Games-Scissors-stones-cloth/blob/main/Group%20project.jpg)<br />
 ---------------------------------------
 # Which type of software development process is applied.<br />
 #### Agile process.<br />
