@@ -21,7 +21,7 @@
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
 * Kenneth     (Leader-portion for write program_P1902198)<br />
-* Aaron  (Portion for Design)<br />
+* Aaron  (Portion for Design_P1902219)<br />
 * Sam         (Portion for README file_P1901972)<br />
 * John        (Portion for README file_P1902031)<br />
 ---------------------------------------
