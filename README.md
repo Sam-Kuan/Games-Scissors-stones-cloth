@@ -20,10 +20,10 @@
 #### Step 6: Regular maintenance and launch of new functions.<br />
 ---------------------------------------
 # Members (Roles & Responsibilities & Portion)<br />
-* Kenneth     (Leader-portion for write program)<br />
+* Kenneth     (Leader-portion for write program_P1902198)<br />
 * Aaron  (Portion for Design)<br />
-* Sam         (Portion for README file)<br />
-* John        (Portion for README file)<br />
+* Sam         (Portion for README file_P1901972)<br />
+* John        (Portion for README file_P1902031)<br />
 ---------------------------------------
 # Schedule<br />
 * Game idea:2 days<br />
