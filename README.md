@@ -1,5 +1,4 @@
 # Single pictures that shows your project<br />
-#### ![image] (https://github.com/Sam-Kuan/Games-Scissors-stones-cloth/blob/main/Group%20project.jpg)<br />
 ---------------------------------------
 # Which type of software development process is applied.<br />
 #### Agile process.<br />
@@ -32,7 +31,7 @@
 * README file:2 days<br />
 ---------------------------------------
 # Algorithm<br />
-#### Java Language.<br />
+#### ![image] (https://github.com/Sam-Kuan/Games-Scissors-stones-cloth/blob/main/Group%20project.jpg)<br />
 ---------------------------------------
 # Current status of your software<br />
 #### The current situation of our game is still realatively inadequate.<br />
